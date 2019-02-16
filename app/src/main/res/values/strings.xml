@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">implicit_intents</string>
+    <string name="button_label_sharetext">Share This Text</string>
+    <string name="button_label_open_location">Open Location</string>
+    <string name="button_label_open_web">Open Websites</string>
+    <string name="edittext_hint_share_text">Don\'t be a silly text</string>
+    <string name="edittext_hint_location">Minneapolis Art Museum</string>
+    <string name="edittext_hint_web">https://seongandroid.com</string>
+</resources>
